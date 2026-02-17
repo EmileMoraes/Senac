@@ -101,6 +101,8 @@ nav {
     font-size: 1.1em;
     cursor: pointer;
     font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .btn:hover {
