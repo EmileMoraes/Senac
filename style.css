@@ -52,6 +52,14 @@ nav {
     margin-right: auto;
     margin-left: auto;
     text-align: left;
+    text-decoration: none;
+    cursor: pointer;
+    transition: opacity 0.3s;
+}
+
+.logo:hover {
+    opacity: 0.8;
+    color: #ffc107;
 }
 
 .navbar-toggler {
